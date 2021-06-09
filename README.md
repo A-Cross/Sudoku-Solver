@@ -1,6 +1,6 @@
 # Sudoku-Solver
 
-A sudoku solver built as part of the Artificial Intelligence unit.
+A sudoku solver built as part of the Artificial Intelligence unit of my degree.
 I used constraint satisfaction for solver. It is able to solve most problems, but can struggle on the hardest ones. 
 Tweaks could be made to improve performance, such as using deepcopy less frequently, or using a different algorithm.
 The code was originally contained within a Jupyter notebook, but I have not posted the notebook I did not produce it.
